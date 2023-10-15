@@ -8,6 +8,6 @@ sky:
     password: root
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: 
-    access-key-secret:
+    access-key-id: LTAI5tCXY75ps9ebreW3eqSM
+    access-key-secret: hiDFfagrfE6jP5OkFGzPP7rwUwrczx
     bucket-name: test-xiachuanyoujia-oss

@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tCXY75ps9ebreW3eqSM
     access-key-secret: hiDFfagrfE6jP5OkFGzPP7rwUwrczx
     bucket-name: test-xiachuanyoujia-oss
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 10
